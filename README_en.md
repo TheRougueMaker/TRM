@@ -22,8 +22,8 @@ abandoned, so I decided to create my own repository. These are the plugins avail
 ## Install
 
 Either click on the pizza to install or go to *Settings* -> *Extensions* -> *Add repository* and in
-the URL field type **doGior**
+the URL field type **TRM**
 
-[<img alt="alt_text" width="100px" src="pizza.png"/>](https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/repo.json)
+[<img alt="alt_text" width="100px" src="pizza.png"/>](https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/TheRougueMaker/TRM/builds/repo.json)
 ---
 [All cloudstream repositories](https://rentry.org/cs3-repos)
